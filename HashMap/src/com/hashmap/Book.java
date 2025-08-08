@@ -3,7 +3,7 @@ package com.hashmap;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
-//
+//eljdj
 public class Book {
 
 	private int id;
@@ -11,7 +11,7 @@ public class Book {
 	private int price;
 	private String type;
 	
-	public Book() {
+	public Book()  {
 	
 	}
 
