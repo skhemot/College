@@ -11,7 +11,7 @@ public class Book {
 	private int price;
 	private String type;
 	
-	public Book() {
+	public Book()  {
 	
 	}
 
