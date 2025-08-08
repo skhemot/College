@@ -2,7 +2,7 @@ package College.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//this is test
+//this is
 @SpringBootApplication
 public class DemoApplication {
 	int i =0;
