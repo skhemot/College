@@ -11,3 +11,4 @@ import College.demo.entity.Student;
 public interface StudentRepositary extends JpaRepository<Student, Long> {
 
 }
+
