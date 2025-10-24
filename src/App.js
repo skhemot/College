@@ -9,6 +9,8 @@ import "./styles/App.css";
 export default function App() {
   return (
     <>
+
+    
       <Navbar />
       <main className="container">
         <Routes>
