@@ -16,7 +16,7 @@ import StudentDiary.demo.repositary.StudentRepositary;
 
 @RestController
 public class StudentController {
-	@Autowired
+	  @Autowired
 	StudentRepositary studentrepositary;
 
 	// localhost:8080/Students
