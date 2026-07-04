@@ -16,8 +16,8 @@ h1 {
   margin-bottom: 15px;
   flex-wrap: wrap;
 }
-
-input, select, button {
+{}
+input, select    , button {
   padding: 8px;
   border: 1px solid #ccc;
   border-radius: 4px;
