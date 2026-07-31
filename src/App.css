@@ -3,8 +3,6 @@
    
   font-f
   margin-bott
-}
-
 .form-container, .search-container, .update-container, .filter-container {
   display: flex;
   gap: 10
