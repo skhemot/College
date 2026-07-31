@@ -7,7 +7,7 @@
 
 .form-container, .search-container, .update-container, .filter-container {
   display: flex;
-  gap: 10px;
+  gap: 10
   margin-bottom: 15px;
   flex-wrap: wrap;
 }
