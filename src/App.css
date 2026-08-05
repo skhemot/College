@@ -1,5 +1,5 @@
 
-.form-container, .search-container, .update-container, .
+.form-container
   display: flex;
   gap: 10
   margin-bo
