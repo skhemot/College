@@ -1,8 +1,7 @@
 
 
 
-import HomePage from "./components/H
-import StudentPage from "./components/StudentPage";
+import HomePage from "./components/StudentPage";
 import TeacherPage from "./components/TeacherPage";
 import "./styles/App.css";
 
