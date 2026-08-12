@@ -1,5 +1,5 @@
 
-import { Routes, Route } from "react-route
+
 import Navbar from "./compo
 import HomePage from "./components/H
 import StudentPage from "./components/StudentPage";
