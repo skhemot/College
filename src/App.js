@@ -1,7 +1,4 @@
-
-
-
-import HomePage from "./components/StudentPage";
+mport HomePage from "./components/StudentPage";
 import TeacherPage from "./components/TeacherPage";
 import "./styles/App.css";
 
