@@ -1,7 +1,7 @@
 
 import React from "react";
 
-export default functio
+export default fun
   return (
     <section className="card hero">
       <h1>Welcome 👋</h1>
